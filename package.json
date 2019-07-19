@@ -48,7 +48,7 @@
     "express": "4.17.x",
     "govuk-frontend": "^2.13.0",
     "helmet": "^3.19.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.15",
     "minimist": "1.2.x",
     "morgan": "1.9.x",
     "node-zendesk": "^1.4.0",
